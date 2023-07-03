@@ -12,13 +12,13 @@ Hello, I am Sanjay Bidikar! Currently I am an ETL Developer Intern at Express An
 ## Projects
 
 **- Lamps Plus:**
-• Marketing Operations Intern with hands-on experience in ETL processes and programming tools.
-• Proficient in Informatica Power Center, SQL Developer, and ShellScript.
-• Supported marketing data management and analysis, ensuring data accuracy and efficiency.
-• Responsibilities included ETL development, data analysis and reporting, and database management.
+- Marketing Operations Intern with hands-on experience in ETL processes and programming tools.
+- Proficient in Informatica Power Center, SQL Developer, and ShellScript.
+- Supported marketing data management and analysis, ensuring data accuracy and efficiency.
+- Responsibilities included ETL development, data analysis and reporting, and database management.
 
 **-SERVICITY (HOME ESSENTIAL SERVICES)** | LINK HTML, CSS, JavaScript, PHP
-• Finding home services in metropolitan is difficult. The main objective of developing this software is to
+- Finding home services in metropolitan is difficult. The main objective of developing this software is to
 provide home essential services for the people.
 
 ## Contact Me
